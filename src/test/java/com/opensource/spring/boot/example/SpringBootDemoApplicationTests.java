@@ -1,4 +1,4 @@
-package com.deloitte.spring.boot.example;
+package com.opensource.spring.boot.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
